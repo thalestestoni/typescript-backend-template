@@ -4,5 +4,5 @@
   "port": "5432",
   "username": "postgres",
   "password": "postgres",
-  "database": "desafio-serasa"
+  "database": "yourDatabaseName"
 }
